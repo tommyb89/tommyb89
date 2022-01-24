@@ -31,7 +31,7 @@ I'd love to learn Python or C++.
 - <a href="https://tommyb89.github.io/morsecode-translator/">Ticket Tracker React</a> - app with employees list where each employee has a counter 📝
 - <a href="https://tommyb89.github.io/morsecode-translator/">Calculator</a> - vanilla JS calculator, simple as that 📝
 
-#### In production - full-stack movie app <a href="https://github.com/tommyb89/movie-frontend">Movie App</a> a note taking app 👨‍💻 
+#### In production - full-stack movie app <a href="https://github.com/tommyb89/movie-frontend">Movie App</a> Full stack movie app with database hosted on gcloud 👨‍💻 
 
 ----------------------------------------------------------------------------------------
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyb89)](https://github.com/tommyb89/github-readme-stats)
