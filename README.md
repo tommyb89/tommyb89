@@ -16,6 +16,8 @@ Tools and technologies I  use:
 - git/github
 - Java
 - Node.js
+- MongoDB / Mongoose
+- Express
 
 Currently learning advanced React and GSAP animation library.
 
