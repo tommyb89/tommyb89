@@ -10,7 +10,6 @@ Where I've been exposed to and learned about front-end and back end technologies
 
 <a href="https://linkedin.com/in/tomasz-bielasik"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="tomasz.bielasik@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-<a href 
 
 <ul>
   <li>💻 ┇I'm a Software Developer based in <b>London, <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Ei-location.svg" width="13"/> UK</b>;</li>
@@ -43,7 +42,7 @@ Where I've been exposed to and learned about front-end and back end technologies
 - <a href="https://tommyb89.github.io/morsecode-translator/">Calculator</a> - vanilla JS calculator, simple as that 📝
 
 
-#### In production - full-stack movie app <a href="https://github.com/tommyb89/movie-frontend">Movie App</a> Full stack movie app with database hosted on gcloud 👨‍💻 
+#### I'm currently 🔨 working on - full-stack movie app <a href="https://github.com/tommyb89/movie-frontend">Movie App</a> Full stack movie app with database hosted on gcloud 👨‍💻 
 ## 😇 My Github Stats:
 
 [![Repos Badge](https://badges.pufler.dev/repos/tommyb89?style=for-the-badge)](https://github.com/tommyb89?tab=repositories)
