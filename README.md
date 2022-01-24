@@ -10,7 +10,10 @@
 I'm Tomasz, London based software developer. 
 I love to create stuff for the web.
 
-Tools and technologies I am 
+Tools and technologies I am using:
+
+![SASS](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
+
 - semantic HTML
 - CSS / SASS
 - JavaScript (ES6)
