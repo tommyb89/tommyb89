@@ -1,10 +1,13 @@
-## Hi there 👋 I'm Tomasz
+## Hi, I'm Tomasz 👋 
 
 London based software developer 👨‍💻 
-who likes to work with JavaScript and React
+who likes to code stuff for the web
 
+I am a tech nerd, starte building computers at early age now taking over the web! Love to read tech news, follow whats going on out there.
+Exposed to programming back in 90s but got serious about it later on. I'm also a graduate of _Nology Software Development intensive bootcamp.
+Where I've been exposed to and learned about front-end and back end technologies.
 
-Tools and technologies I am using:
+Tools and technologies I  use:
 
 - semantic HTML
 - CSS / SASS
@@ -13,6 +16,11 @@ Tools and technologies I am using:
 - git/github
 - Java
 - Node.js
+
+
+I'm currently learning advanced React and GSAP animation library.
+
+I'd love to learn Python or C++.
 
 ----------------------------------------------------------------------------------------
 - 🔭 I’m currently working on a full-stack movie app <a href="https://github.com/tommyb89/movie-frontend">Movie App</a> a note taking app 👨‍💻 
@@ -25,7 +33,7 @@ Some of my projects you can check out are:
 - 
 
 ----------------------------------------------------------------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyb89)](https://github.com/tommyb89/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyb89)](https://github.com/tommyb89/github-readme-stats)
 
 
 
