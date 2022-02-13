@@ -4,7 +4,7 @@
 
 **Full-Stack Developer**
 
-<p>I am a tech savvy individual who started building computers at early age and now taking over the web! Love to read tech news, follow what's going on out there.
+<p>I am a tech savvy individual who started building computers at an early age and now taking over the web! Love to read tech news, follow what's going on out there.
 Exposed to programming back in 90s but got serious about it later on. I'm also a graduate of _Nology Software Development intensive bootcamp,
 where I've been exposed to and learned about front-end and back end technologies. </p>
 
