@@ -2,11 +2,11 @@
 
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
-**Software Engineer**
+**Full-Stack Developer**
 
-<p>I am a tech nerd, starte building computers at early age now taking over the web! Love to read tech news, follow whats going on out there.
-Exposed to programming back in 90s but got serious about it later on. I'm also a graduate of _Nology Software Development intensive bootcamp.
-Where I've been exposed to and learned about front-end and back end technologies. </p>
+<p>I am a tech savvy individual who started building computers at early age and now taking over the web! Love to read tech news, follow what's going on out there.
+Exposed to programming back in 90s but got serious about it later on. I'm also a graduate of _Nology Software Development intensive bootcamp,
+where I've been exposed to and learned about front-end and back end technologies. </p>
 
 <a href="https://linkedin.com/in/tomasz-bielasik"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="tomasz.bielasik@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
