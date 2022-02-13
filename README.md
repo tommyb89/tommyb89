@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Tomasz</h1>
 
-<!-- <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'> -->
-
 **Full-Stack Developer**
 
 <p>I am a tech savvy individual who started building computers at an early age and now taking over the web! Love to read tech news, follow what's going on out there.
