@@ -44,7 +44,9 @@ where I've been exposed to and learned about front-end and back end technologies
 ### Some Apps I've build:
 - <a href="https://tommyb89.github.io/punk-api-app/">Punk IPA app</a> - app that fetches beers from Punk API 📝
 - <a href="https://tommyb89.github.io/morsecode-translator/">Morse Code Translator</a> - app that translates english to morse or morse to english 📝
-- <a href="https://tommyb89.github.io/morsecode-translator/">Ticket Tracker React</a> - app with employees list where each employee has a counter 📝
+- <a href="https://tommyb89.github.io/morsecode-translator/">Ticket Tracker React</a> - Ticket Tracker. The purpose of this project was to create a ticket-tracker
+for 12 employees to familiarize myself with React, mapping over data,
+using props and reusable components.📝
 - <a href="https://tommyb89.github.io/morsecode-translator/">Calculator</a> - vanilla JS calculator, simple as that 📝
 
 
