@@ -42,11 +42,8 @@ where I've been exposed to and learned about front-end and back end technologies
 ---
 
 ### Some Apps I've build:
-- <a href="https://tommyb89.github.io/punk-api-app/">A Punk IPA beer finder in React, primarily to show understanding of working with API's. 
+- <a href="https://tommyb89.github.io/punk-api-app/">A Punk IPA beer finder</a> App built primarily to show understanding of working with API's. 
 This included a search & filter, asynchronous functions, passing functions as props, useState and useEffect hooks 📝
-- <a href="https://github.com/tommyb89/insta-clone">Instagram Clone</a> - A post course project. I've attempted to re-create a partially functional Instagram clone.
-The purpose of this project was to push learn about User Authentication, hooking up my app to Firebase and React Routing. My MVP is allowing users to create their own posts,
-follow each other, like and comment on them 📝
 - <a href="https://github.com/tommyb89/weather-checker">Weather Checker</a> - Here, again I practiced fetching data from an external API, using search term user can search accurate weather and temperature displaying today's formatted date. Background of the application will change depending on what's the weather like 📝
 - <a href="https://tommyb89.github.io/ticket-tracker/">Ticket Tracker</a> -  The purpose of this project was to create a ticket-tracker for 12 employees to 
 familiarize myself with React, mapping over data, using props and reusable components 📝
