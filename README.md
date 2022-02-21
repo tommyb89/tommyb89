@@ -42,15 +42,19 @@ where I've been exposed to and learned about front-end and back end technologies
 ---
 
 ### Some Apps I've build:
-- <a href="https://tommyb89.github.io/punk-api-app/">Punk IPA app</a> - app that fetches beers from Punk API 📝
-- <a href="https://tommyb89.github.io/morsecode-translator/">Morse Code Translator</a> - app that translates english to morse or morse to english 📝
-- <a href="https://tommyb89.github.io/morsecode-translator/">Ticket Tracker React</a> - Ticket Tracker. The purpose of this project was to create a ticket-tracker
-for 12 employees to familiarize myself with React, mapping over data,
-using props and reusable components.📝
-- <a href="https://tommyb89.github.io/morsecode-translator/">Calculator</a> - vanilla JS calculator, simple as that 📝
+- <a href="https://tommyb89.github.io/punk-api-app/">A Punk IPA beer finder in React, primarily to show understanding of working with API's. 
+This included a search & filter, asynchronous functions, passing functions as props, useState and useEffect hooks 📝
+- <a href="https://github.com/tommyb89/insta-clone">Instagram Clone</a> - A post course project. I've attempted to re-create a partially functional Instagram clone.
+The purpose of this project was to push learn about User Authentication, hooking up my app to Firebase and React Routing. My MVP is allowing users to create their own posts,
+follow each other, like and comment on them 📝
+- <a href="https://github.com/tommyb89/weather-checker">Weather Checker</a> - Here, again I practiced fetching data from an external API, using search term user can search accurate weather and temperature displaying today's formatted date. Background of the application will change depending on what's the weather like 📝
+- <a href="https://tommyb89.github.io/ticket-tracker/">Ticket Tracker</a> -  The purpose of this project was to create a ticket-tracker for 12 employees to 
+familiarize myself with React, mapping over data, using props and reusable components 📝
+- <a href="https://tommyb89.github.io/morsecode-translator/">Morse Code</a> - A Morse-code translator to practice JavaScript, HTML, SCSS and some
+basic TDD 📝
 
 
-#### I'm currently 🔨 working on - full-stack movie app <a href="https://github.com/tommyb89/movie-frontend">Movie App</a> Full stack movie app with database hosted on gcloud 👨‍💻 
+#### I'm currently 🔨 working on - full-stack movie app <a href="https://github.com/tommyb89/insta-clone">Insta Clone</a> A post course project full stack project. I've attempted to re-create a partially functional Instagram clone. The purpose of this project was to push learn about User Authentication, hooking up my app to Firebase and React Routing. My MVP is allowing users to create their own posts, follow each other, like and comment on them.👨‍💻 
 ## 😇 My Github Stats:
 
 [![Repos Badge](https://badges.pufler.dev/repos/tommyb89?style=for-the-badge)](https://github.com/tommyb89?tab=repositories)
