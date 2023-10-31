@@ -2,19 +2,28 @@
 
 **Full-Stack Developer**
 
-<p>I am a tech savvy individual who started building computers at an early age and now taking over the web! Love to read tech news, follow what's going on out there.
-Exposed to programming back in 90s but got serious about it later on. I'm also a graduate of _Nology Software Development intensive bootcamp,
+<p>I am a tech savvy individual who started building computers at an early age and now taking over the web! Love to read tech news, follow the new trends and try to play with them.
+Exposed to programming back in  late 90s but got serious about it later on. I'm also a graduate of _Nology Software Development intensive bootcamp,
 where I've been exposed to and learned about front-end and back end technologies. </p>
+
+<h2>I currently work @The Stepstone Group as a Mid Full-Stack Deveveloper</h2>
+<p>Projects at The Stepstone Group</p>
+<ul>
+  <li>🌟 Contributed to optimization of logged in user area called - Members Area. Improved speeds, various issues with re-rendering and switched all project from styled-components to a custom components library. Continued improving user experience by enhancing 4 widgets responsible for displaying recommended jobs, saved jobs, applied jobs and job alerts.</li>
+  <li>🚀 Worked on harmonisation of the homepage for logged-in and anonymous user to synchronize with other brands. Implemented various features based on our A/B tests that led to 15% boost in registered users as well as increased creation of job by email notifications.</li>
+  <li>💡 Improved a workflow of our onboarding app. It's a comprehensive tool for gathering user information that helps refining the job recommendations for particular user and and ensuring a tailored job search.</li>
+  <li>🌐 Contributed to other teams innovative job chat that utilized XState + React, in order to simplify job search for fresh graduates or poeple with no experience.</li>
+</ul>
 
 <a href="https://linkedin.com/in/tomasz-bielasik"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="tomasz.bielasik@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
   <li>💻 ┇I'm a Software Developer based in <b>London, <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Ei-location.svg" width="13"/> UK</b>;</li>
-  <li>💾 ┇I love coding in Javascript, Sass, ReactJS, Git and Node.js;</li>
-  <li>😍 ┇Passionate about all tech stuff, yes ..another nerd</li>
-  <li>😊 ┇Willing to contribute in opensource development projects;</li>
-  <li>🤝 ┇Open for collaborations in Javascript Stack.</li>
+  <li>💾 ┇I love coding in Javascript, CSS/Sass, ReactJS, Node/Express and variery of tools</li>
+  <li>😍 ┇Passionate about all tech stuff</li>
+  <li>😊 ┇Willing to contribute in opensource development projects</li>
+  <li>🤝 ┇Open for collaborations</li>
 </ul>
 
 > “Be who you needed when you were younger!”
